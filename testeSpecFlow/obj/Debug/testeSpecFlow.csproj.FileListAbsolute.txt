@@ -1,0 +1,2 @@
+C:\Users\filipe.jesus\source\repos\testeSpecFlow\testeSpecFlow\obj\Debug\testeSpecFlow.csprojAssemblyReference.cache
+C:\Users\filipe.jesus\source\repos\testeSpecFlow\testeSpecFlow\obj\Debug\testeSpecFlow.csproj.CoreCompileInputs.cache
